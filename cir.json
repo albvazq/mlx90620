@@ -1,5 +1,6 @@
 {
   "name": "mlx90620",
+  "entry": "src/mlx90620.c",
   "description": "",
   "libs": {
     "soft_i2c": {
