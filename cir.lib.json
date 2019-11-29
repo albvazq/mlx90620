@@ -1,0 +1,9 @@
+{
+  "name": "mlx90620",
+  "description": "",
+  "libs": {
+    "soft_i2c": {
+
+    }
+  }
+}
