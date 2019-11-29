@@ -3,7 +3,7 @@
   "description": "",
   "libs": {
     "soft_i2c": {
-
+      "repo": "git@github.com:albvazq/soft_i2c.git"
     }
   }
 }
